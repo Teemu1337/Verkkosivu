@@ -1,18 +1,18 @@
 body {
     color: white;
-    background-color: rgb(116, 101, 101);
-    background-image: url("../kuvat/yle2.avif");
+    background-color: rgb(27, 103, 218);
+    background-image: url("../images/background.png");
     font-family: " Arial";
   }
   
   p {
-    font-size: 20px;
+    font-size: 20px; border: 2px ; border-radius: 2px;
   }
   
   .btn {
-    background-color: rgb(133, 129, 129);
+    background-color: rgb(25, 53, 212);
   }
   
-  #nappi {
+  #hauva {
     font-size: 48px;
   }
