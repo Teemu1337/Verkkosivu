@@ -1,5 +1,4 @@
 # Verkkosivu
-Tehtävä 6B 
-Teen harjoituksessa oman kahden kolumnin verkkosivun
+Verkkosivujen kehittäminen Laurea
 
-
+Toivottavasti voimme katsoa tunnilla, että mikä tässä meni pieleen.
