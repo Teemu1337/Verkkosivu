@@ -1,0 +1,32 @@
+body {
+    color: white;
+    background-color: rgb(27, 103, 218);
+    background-image: url("../images/background.png");
+    font-family: " Arial";
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  p {
+    font-size: 20px; border: 2px ; border-radius: 2px; color: blueviolet; background-color: aquamarine;
+  }
+  
+  .btn {
+    background-color: rgb(25, 53, 212);
+  }
+  
+
+
+  #Koiria {
+    background-color: aqua;
+    font-size: 48px;
+  }
+
+  #nav {
+    background-color: blue;
+  }
+
+#koira1 {
+  background-color: bisque;
+}
