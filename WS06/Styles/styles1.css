@@ -64,4 +64,9 @@ footer {
     clear: left;
     text-align: center;
   }
-  
+
+  #header2 {
+    position: relative;
+    left: 20px;
+    font-family: Arial, sans-serif;
+  }
