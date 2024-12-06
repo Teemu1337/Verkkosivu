@@ -6,6 +6,16 @@ p {
     background-color:cornflowerblue;
 }
 
-#media {
-    
+footer {
+    padding: 1em;
+    color: white;
+    background-color: cornflowerblue;
+    clear: left;
+    text-align: center;
+}
+
+img {
+    max-width: 200px;   
+    max-height: 200px;  
+    object-fit: contain;
 }

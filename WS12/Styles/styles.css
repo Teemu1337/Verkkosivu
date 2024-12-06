@@ -1,0 +1,21 @@
+p {
+    font-size: 12px; border: 2px ; border-radius: 2px;
+}
+
+#karu {
+    background-color:cornflowerblue;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: cornflowerblue;
+    clear: left;
+    text-align: center;
+}
+
+img {
+    max-width: 200px;   
+    max-height: 200px;  
+    object-fit: contain;
+}
