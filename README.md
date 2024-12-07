@@ -1,1 +1,1 @@
-Tämä on kouluprojektini verkkosivujen kehittäminen opintojaksolta Tikkurilan Laurea-ammattikorkeakoulusta.
+Tämä on kouluprojektini verkkosivujen kehittäminen opintojaksolta Tikkurilan Laurea-ammattikorkeakoulussa.
