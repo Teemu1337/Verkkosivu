@@ -14,13 +14,18 @@ footer {
     text-align: center;
 }
 
-img {
-    max-width: 200px;   
-    max-height: 200px;  
-    object-fit: contain;
-}
+
 
 #map {
+    height: 300px;
+    width: 500px;
+}
+
+#dogs {
     height: 400px;
-    width: 600px;
+    width: 100%;
+  
+}
+.container {
+    text-align: center;
 }
