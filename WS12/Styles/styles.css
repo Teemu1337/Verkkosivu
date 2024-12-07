@@ -4,6 +4,7 @@ p {
 
 #karu {
     background-color:cornflowerblue;
+  
 }
 
 footer {
@@ -15,12 +16,13 @@ footer {
 }
 
 img {
+    max-width: 100%;
     max-width: 200px;   
     max-height: 200px;  
     object-fit: contain;
+    display: block;
+}
+img:hover {
+    transform: scale(1.1);
 }
 
-#map {
-    height: 400px;
-    width: 600px;
-}

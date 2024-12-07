@@ -1,5 +1,5 @@
 p {
-    font-size: 12px; border: 2px ; border-radius: 2px;
+    font-size: 20px; border: 2px ; border-radius: 2px;
 }
 
 #karu {
@@ -14,7 +14,10 @@ footer {
     text-align: center;
 }
 
-
+img {
+    max-width: 100%;
+    object-fit: contain;
+}
 
 #map {
     height: 300px;
